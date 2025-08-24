@@ -8,7 +8,7 @@ The analysis includes demographic insights (age, gender, geography), financial i
 📊 Power BI Desktop -Main data visualization platform used for report creation.
 🔄Power Query- Data transformation and cleaning layer for reshaping and preparing the data..
 🧮DAX (Data Analysis Expressions) -Used for calculated measures, dynamic visuals, and conditional logic.
-🗂Data Modeling -Relationships established among tables (customers, geography, products , churn)in Power BI
+🗂Data Modeling -Relationships established among tables (customers, geography, products , churn)in Power BI.
 📑File Format .pbix for development and .png for dashboard previews.
 
 4. Dataset source:
@@ -24,9 +24,9 @@ Demographics → Age, gender, and geography impact.
 Financials & Behavior → Balance, credit score, tenure, product usage.
 Filters → Drill-down by customer segments.
 Business Insights:
---Higher churn among young, low-tenure customers.
---Low product usage & inactive credit cards linked to attrition.
---Regional patterns highlight focus areas for retention campaigns.
+1.Higher churn among young, low-tenure customers.
+ 2.Low product usage & inactive credit cards linked to attrition.
+3.Regional patterns highlight focus areas for retention campaigns.
 
-6. Snapshot
+7. Snapshot
 (https://github.com/tanviarora12/Bank-customer-churn-analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
